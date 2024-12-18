@@ -24,6 +24,6 @@ This project provides tailored weather updates, focusing on daily conditions lik
   
 - *Informed Decision-Making*: Users can make better choices based on accurate weather predictions.
 
-- *Increased Safety*: Timely alerts reduce risks associated with adverse weather conditions.
+- *Increased Safety*: Timely alerts reduce risks associated with adverse weather condition.
 
 By keeping users informed, this project transforms how people approach their daily tasks, ensuring they are prepared for whatever the weather brings.
