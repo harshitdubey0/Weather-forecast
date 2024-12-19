@@ -14,7 +14,7 @@ This project provides tailored weather updates, focusing on daily conditions lik
 
 - *Safety Precautions*: Alerts users to severe weather conditions, enabling them to take necessary precautions.
 
-- *Gardening and Agriculture*: Assists gardeners and farmers in planning tasks around weather patterns, optimizing planting and harvest times.
+- *Gardening and Agriculture*: Assists gardeners and farmers in planning tasks around weather patterns, optimizing planting and harvest time.
 
 - *Commute Optimization*: Provides real-time updates for commuters, helping them avoid traffic disruptions due to weather conditions.
 
