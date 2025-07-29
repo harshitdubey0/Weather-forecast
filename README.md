@@ -10,7 +10,7 @@ This project provides tailored weather updates, focusing on daily conditions lik
 
 - *Outdoor Planning*: Helps users decide the best days for outdoor events, ensuring enjoyable experiences.
   
-- *Travel Preparedness*: Travelers can check forecasts for their destinations, packing accordingly to avoid surprises.
+- *Travel Preparedness: Travelers can check forecasts for their destinations, packing accordingly to avoid surprises.
 
 - *Safety Precautions*: Alerts users to severe weather conditions, enabling them to take necessary precautions.
 
