@@ -16,7 +16,7 @@ This project provides tailored weather updates, focusing on daily conditions lik
 
 - *Gardening and Agriculture*: Assists gardeners and farmers in planning tasks around weather patterns, optimizing planting and harvest time.
 
-- *Commute Optimization*: Provides real-time updates for commuters, helping them avoid traffic disruptions due to weather conditions.
+- *Commute Optimization*: Provides real-time updates for commuters, helping them avoid traffic disruptions due to weather conditions  .
 
 ### Benefits
 
